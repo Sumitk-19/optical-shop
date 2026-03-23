@@ -64,7 +64,7 @@ export default function WhyUsSection() {
             letterSpacing: "-0.03em", lineHeight: "1.1",
             color: "#0F172A", marginBottom: "14px",
           }}>
-            Nangloi's{" "}
+            Firozabad's{" "}
             <span style={{
               background: "linear-gradient(135deg, #2563EB, #38BDF8)",
               WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text",

@@ -38,8 +38,8 @@ const contactItems = (business) => [
 ];
 
 const locationTags = [
-  { icon: "🚇", label: "Near Metro Exit 2" },
-  { icon: "🏢", label: "Dharma Complex"    },
+  { icon: "🚇", label: "Near Jama Masjid" },
+  { icon: "🏢", label: "Sadar Bazar"    },
   { icon: "🅿️",  label: "Free Parking"     },
   { icon: "🛺",  label: "Easy Auto Access" },
 ];
@@ -113,7 +113,7 @@ export default function ContactSection() {
               background: "linear-gradient(135deg, #2563EB, #38BDF8)",
               WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text",
             }}>
-              Nangloi Metro
+              Near Jama Masjid
             </span>
           </h2>
           <p style={{

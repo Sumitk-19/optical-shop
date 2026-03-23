@@ -5,7 +5,7 @@
 export const siteConfig = {
   // ── Business Info ─────────────────────────────────────────
   business: {
-    name: "Clear View Opticals",
+    name: "B.C Optical ",
     tagline: "See the World Clearly",
     description: "Affordable, Stylish & Same-Day Glasses in Nangloi, Delhi. Free eye checkup with every visit.",
     logo: "/logo.svg",         // place your logo in /public
@@ -13,9 +13,9 @@ export const siteConfig = {
     totalCustomers: "100+",
     phone: "+91 98765 43210",
     whatsapp: "+919876543210", // for WhatsApp button
-    email: "hello@clearviewopticals.com",
-    address: "Shop No. 1, Metro Station Nangloi, Dharma Complex, Nangloi, Delhi - 110041",
-    mapEmbedUrl: "https://maps.google.com/maps?q=Nangloi+Metro+Station&output=embed",
+    email: "hello@bc-opticals.com",
+    address: "opp. Bartan Wali Gali, Near Jama Masjid, Sadar Baazar, Purani Mandi, Firozabad, Uttar Pradesh 283203",
+    mapEmbedUrl: "https://maps.app.goo.gl/8XGNxAKXAudKvaWW8",
     hours: "Monday – Sunday: 6:00 AM – 11:00 PM",
   },
 
@@ -39,7 +39,7 @@ export const siteConfig = {
   // ── Hero Section ───────────────────────────────────────────
   hero: {
     headline: "See the World Clearly with",
-    highlightedWord: "Clear View Opticals",
+    highlightedWord: "B.C Optical ",
     subtext: "Affordable, Stylish & Same-Day Glasses in Nangloi, Delhi. Free eye checkup with every visit.",
     backgroundImage: "/hero-bg.jpg",  // place in /public
     badges: ["Same Day Glasses", "Free Eye Testing", "100+ Happy Customers"],
@@ -132,14 +132,14 @@ export const siteConfig = {
       name: "Anita Singh",
       initials: "AS",
       role: "Verified Customer",
-      review: "Best optical shop in Nangloi. Wide frame collection at unbeatable prices.",
+      review: "Best optical shop in Firozabad. Wide frame collection at unbeatable prices.",
       rating: 5,
     },
   ],
 
   // ── Why Choose Us ──────────────────────────────────────────
   whyUs: [
-    { icon: "Star",      title: "4.9★ Rated Shop",       description: "Trusted by 100+ customers in Nangloi" },
+    { icon: "Star",      title: "4.9★ Rated Shop",       description: "Trusted by 100+ customers in Firozabad" },
     { icon: "Zap",       title: "Same Day Delivery",      description: "Walk in, choose & walk out with your glasses" },
     { icon: "Eye",       title: "Free Eye Testing",       description: "Professional checkup at zero cost" },
     { icon: "IndianRupee", title: "Affordable Pricing",   description: "Premium quality at prices that don't burn a hole" },
@@ -148,7 +148,7 @@ export const siteConfig = {
 
   // ── Footer ─────────────────────────────────────────────────
   footer: {
-    tagline: "Clear Vision, Better Life. Nangloi's most trusted optical shop for affordable and stylish eyewear.",
+    tagline: "Clear Vision, Better Life. Firozabad's most trusted optical shop for affordable and stylish eyewear.",
     quickLinks: ["Services", "Products", "Reviews", "Why Us", "Contact"],
     services: ["Free Eye Testing", "Prescription Glasses", "Sunglasses", "Contact Lenses", "Frame Repair"],
   },
