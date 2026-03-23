@@ -18,10 +18,10 @@ const dmSans = DM_Sans({
 });
 
 export const metadata = {
-  title: "Clear View Opticals — Nangloi's Most Trusted Optical Shop",
+  title: "Clear View Opticals — Firozabad's Most Trusted Optical Shop",
   description:
-    "Affordable, Stylish & Same-Day Glasses in Nangloi, Delhi. Free eye checkup with every visit.",
-  keywords: "optical shop, glasses, eye checkup, Nangloi, Delhi, frames, sunglasses",
+    "Affordable, Stylish & Same-Day Glasses in Firozabad, Uttar Pradesh. Free eye checkup with every visit.",
+  keywords: "optical shop, glasses, eye checkup, Firozabad, Uttar Pradesh, frames, sunglasses",
 };
 
 export default function RootLayout({ children }) {
