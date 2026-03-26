@@ -5,9 +5,9 @@
 export const siteConfig = {
   // ── Business Info ─────────────────────────────────────────
   business: {
-    name: "B.C Optical ",
+    name: "Vision Kit Eyeware ",
     tagline: "See the World Clearly",
-    description: "Affordable, Stylish & Same-Day Glasses in Nangloi, Delhi. Free eye checkup with every visit.",
+    description: "Affordable, Stylish & Same-Day Glasses in Hyderabad, Free eye checkup with every visit.",
     logo: "/logo.svg",         // place your logo in /public
     rating: "4.9",
     totalCustomers: "100+",
