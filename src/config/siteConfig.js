@@ -39,8 +39,8 @@ export const siteConfig = {
   // ── Hero Section ───────────────────────────────────────────
   hero: {
     headline: "See the World Clearly with",
-    highlightedWord: "B.C Optical ",
-    subtext: "Affordable, Stylish & Same-Day Glasses in Nangloi, Delhi. Free eye checkup with every visit.",
+    highlightedWord: "Vision Kit Eyewear ",
+    subtext: "Affordable, Stylish & Same-Day Glasses in Hyderabad. Free eye checkup with every visit.",
     backgroundImage: "/hero-bg.jpg",  // place in /public
     badges: ["Same Day Glasses", "Free Eye Testing", "100+ Happy Customers"],
     ctaPrimary:   { label: "📞 Call Now",     href: "tel:+919876543210" },
@@ -132,7 +132,7 @@ export const siteConfig = {
       name: "Anita Singh",
       initials: "AS",
       role: "Verified Customer",
-      review: "Best optical shop in Firozabad. Wide frame collection at unbeatable prices.",
+      review: "Best optical shop in Hyderabad. Wide frame collection at unbeatable prices.",
       rating: 5,
     },
   ],
