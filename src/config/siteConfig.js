@@ -5,16 +5,16 @@
 export const siteConfig = {
   // ── Business Info ─────────────────────────────────────────
   business: {
-    name: "Vision Kit Eyeware ",
+    name: "Globe Opticals ",
     tagline: "See the World Clearly",
-    description: "Affordable, Stylish & Same-Day Glasses in Hyderabad, Free eye checkup with every visit.",
+    description: "Affordable, Stylish & Same-Day Glasses in Alambagh, Free eye checkup with every visit.",
     logo: "/logo.svg",         // place your logo in /public
     rating: "4.9",
     totalCustomers: "100+",
     phone: "+91 98765 43210",
     whatsapp: "+919876543210", // for WhatsApp button
-    email: "hello@bc-opticals.com",
-    address: "opp. Bartan Wali Gali, Near Jama Masjid, Sadar Baazar, Purani Mandi, Firozabad, Uttar Pradesh 283203",
+    email: "hello@globe-opticals.com",
+    address: "Sardari Khera Near HP Petrol Pump Alambagh",
     mapEmbedUrl: "https://maps.app.goo.gl/8XGNxAKXAudKvaWW8",
     hours: "Monday – Sunday: 6:00 AM – 11:00 PM",
   },
@@ -39,7 +39,7 @@ export const siteConfig = {
   // ── Hero Section ───────────────────────────────────────────
   hero: {
     headline: "See the World Clearly with",
-    highlightedWord: "Vision Kit Eyewear ",
+    highlightedWord: "Globe Opticals ",
     subtext: "Affordable, Stylish & Same-Day Glasses in Hyderabad. Free eye checkup with every visit.",
     backgroundImage: "/hero-bg.jpg",  // place in /public
     badges: ["Same Day Glasses", "Free Eye Testing", "100+ Happy Customers"],
