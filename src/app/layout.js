@@ -18,7 +18,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata = {
-  title: "Clear View Opticals — Firozabad's Most Trusted Optical Shop",
+  title: "Globe Opticals — Most Trusted Optical Shop",
   description:
     "Affordable, Stylish & Same-Day Glasses in Firozabad, Uttar Pradesh. Free eye checkup with every visit.",
   keywords: "optical shop, glasses, eye checkup, Firozabad, Uttar Pradesh, frames, sunglasses",
